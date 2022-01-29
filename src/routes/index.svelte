@@ -7,6 +7,10 @@
 		{
 			title: '02. Perlin Grid',
 			route: '/02-perlin-grid'
+		},
+		{
+			title: '03. Wobbly Perlin Grid',
+			route: '/03-wobbly-perlin-grid'
 		}
 	];
 </script>
