@@ -1,8 +1,12 @@
 <script lang="ts">
 	const posts = [
 		{
-			title: '01. Pseudorandom Binary Grid',
-			route: '/01-pseudorandom-binary-grid'
+			title: '01. Pseudorandom Grid',
+			route: '/01-pseudorandom-grid'
+		},
+		{
+			title: '02. Perlin Grid',
+			route: '/02-perlin-grid'
 		}
 	];
 </script>

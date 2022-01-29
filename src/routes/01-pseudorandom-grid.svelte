@@ -41,7 +41,7 @@
 <figure>
 	<P5 {sketch} />
 	<figcaption class="mt-3 text-right text-gray-700 font-thin select-none">
-		<h2>01. Pseudorandom Binary Grid</h2>
+		<h2>01. Pseudorandom Grid</h2>
 		<p class="text-xs italic">press any key to interact</p>
 	</figcaption>
 </figure>
