@@ -11,6 +11,10 @@
 		{
 			title: '03. Wobbly Perlin Grid',
 			route: '/03-wobbly-perlin-grid'
+		},
+		{
+			title: '04. Mod Grid',
+			route: '/04-mod-grid'
 		}
 	];
 </script>
