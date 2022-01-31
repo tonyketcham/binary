@@ -20,8 +20,8 @@
 		p5.draw = () => {
 			let shouldFill = false;
 
-			for (let x = 0; x < stepSize; x++) {
-				for (let y = 0; y < stepSize; y++) {
+			for (let x = -1; x < stepSize; x++) {
+				for (let y = -1; y < stepSize; y++) {
 					p5.square(x * elementLength, y * elementLength, elementLength);
 					noiseVal = p5.noise(x * noiseScale + time, y * noiseScale + time);
 
