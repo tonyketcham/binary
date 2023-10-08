@@ -23,7 +23,7 @@
     "eslint-plugin-svelte3": "^3.2.1",
     "p5": "^1.4.0",
     "p5-svelte": "^3.0.1",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.31",
     "prettier": "^2.4.1",
     "prettier-plugin-svelte": "^2.4.0",
     "svelte": "^3.44.0",
